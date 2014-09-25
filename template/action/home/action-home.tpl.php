@@ -1,2 +1,2 @@
 <?php
-echo "public stem hive on GitHub";
+echo "public stem hive on GitHub via svn";
